@@ -102,5 +102,6 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:dujx99/dujx99.github.io.git
+  # repository: git@github.com:dujx99/dujx99.github.io.git
+  repository: https://XpnHcpFxdhgRO72PW6CKcWCH@github.com/dujx99/dujx99.github.io.git,main
   branch: master
